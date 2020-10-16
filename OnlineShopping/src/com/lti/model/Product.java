@@ -3,6 +3,7 @@ package com.lti.model;
 public class Product {
 	int prodId;
 	String prodName;
+	int price;
 	public int getProdId() {
 		return prodId;
 	}
